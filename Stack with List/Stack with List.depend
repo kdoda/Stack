@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1494970527 source:c:\users\user\desktop\c++\stack with list\main.cpp
+	<iostream>
+	"DynInStack.h"
+	"DynInStack.cpp"
+
+1494970145 c:\users\user\desktop\c++\stack with list\dyninstack.h
+
+1494970480 c:\users\user\desktop\c++\stack with list\dyninstack.cpp
+	"DynInStack.h"
+	<iostream>
+	<cstdlib>
+
